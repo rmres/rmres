@@ -5,6 +5,6 @@
 
 Conhecimentos em C# e JavaScript.
 
-Cursando Bacharelado em Ciências da Computação na Universidade Federal de Goiás - Goiânia.
+Cursando Bacharelado em Ciência da Computação na Universidade Federal de Goiás - Goiânia.
 
 📕⌨☕

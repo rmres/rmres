@@ -14,8 +14,5 @@ Cursando Bacharelado em Ciência da Computação na Universidade Federal de Goi�
   <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
-##
-
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmres&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/rmres)
 
 
